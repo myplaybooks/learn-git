@@ -1,0 +1,7 @@
+Hello Git, I am Nihanth
+add: Modify my file
+<<<<<<< HEAD
+commit: Save the status of an index
+=======
+pull: Obtain the content of the remote repository
+>>>>>>> append description of the pull command
